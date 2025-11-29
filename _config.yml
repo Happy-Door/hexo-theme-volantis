@@ -868,7 +868,7 @@ plugins:
     # Required
     server: netease   # netease, tencent, kugou, xiami, baidu
     type: playlist    # song, playlist, album, search, artist
-    id: 17472066121&uct2=U2FsdGVkX1/rFD2jjzQxNY60gSBc1aD9oS98G+oT6v0=    # song id / playlist id / album id / search keyword
+    id: 17472066121    # song id / playlist id / album id / search keyword
     # ============= meting end =============
     # ============= local begin ==============
     # local 暂时没有适配右键 和 post.music 迷你模式
